@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Freight Transport - Small Truck",
+      "slug": "freight-transport-small-truck",
+      "description": "Affordable and efficient transport for small freight loads up to 3 tons.",
+      "price": 150.00,
+      "provider": "ABC Logistics",
+      "isFeatured": true,
+      "image": "/products/small-truck.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Container Transport - Large Truck",
+      "slug": "container-transport-large-truck",
+      "description": "Secure container transport services for loads up to 20 tons.",
+      "price": 500.00,
+      "provider": "Global Freight Co.",
+      "isFeatured": false,
+      "image": "/products/large-truck.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Express Delivery - Van",
+      "slug": "express-delivery-van",
+      "description": "Fast and reliable express delivery services for smaller packages.",
+      "price": 80.00,
+      "provider": "QuickShip",
+      "isFeatured": true,
+      "image": "/products/van.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Refrigerated Truck Service",
+      "slug": "refrigerated-truck-service",
+      "description": "Specialized transport service for temperature-sensitive goods.",
+      "price": 300.00,
+      "provider": "CoolTrans Logistics",
+      "isFeatured": true,
+      "image": "/products/refrigerated-truck.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Heavy Load Transport - Flatbed",
+      "slug": "heavy-load-transport-flatbed",
+      "description": "Heavy-duty transport for oversized cargo and machinery.",
+      "price": 750.00,
+      "provider": "Heavy Haul Solutions",
+      "isFeatured": false,
+      "image": "/products/flatbed-truck.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Bulk Goods Transport",
+      "slug": "bulk-goods-transport",
+      "description": "Reliable service for transporting bulk goods over long distances.",
+      "price": 200.00,
+      "provider": "BulkMover",
+      "isFeatured": false,
+      "image": "/products/bulk-transport.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Hazardous Material Transport",
+      "slug": "hazardous-material-transport",
+      "description": "Specialized handling and transport services for hazardous materials.",
+      "price": 1200.00,
+      "provider": "SafeTrans",
+      "isFeatured": true,
+      "image": "/products/hazardous-transport.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Automobile Transport - Carrier",
+      "slug": "automobile-transport-carrier",
+      "description": "Secure and reliable carrier service for transporting automobiles.",
+      "price": 400.00,
+      "provider": "AutoMovers",
+      "isFeatured": false,
+      "image": "/products/carrier-truck.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Livestock Transport",
+      "slug": "livestock-transport",
+      "description": "Safe and comfortable transport for livestock.",
+      "price": 600.00,
+      "provider": "Farm2Market",
+      "isFeatured": false,
+      "image": "/products/livestock-truck.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Construction Equipment Transport",
+      "slug": "construction-equipment-transport",
+      "description": "Specialized transport service for heavy construction equipment.",
+      "price": 1000.00,
+      "provider": "BuildMove",
+      "isFeatured": true,
+      "image": "/products/construction-truck.jpg"
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:01:44.075Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:02:15.843Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:02:31.642Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:02:34.111Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:03:53.897Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/\",\"status\":\"404\",\"responseTime\":\"2.197\"}","timestamp":"2024-12-25T03:04:32.016Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:07:56.886Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:09:50.157Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:09:53.485Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:13:10.012Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:13:13.134Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:13:49.107Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:13:51.104Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:14:38.332Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:14:39.448Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:14:41.771Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:14:43.263Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:16:01.773Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"22.768\"}","timestamp":"2024-12-25T03:22:05.782Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"1.687\"}","timestamp":"2024-12-25T03:23:37.947Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"1.393\"}","timestamp":"2024-12-25T03:25:13.861Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"1.208\"}","timestamp":"2024-12-25T03:27:38.937Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"1.314\"}","timestamp":"2024-12-25T03:30:39.687Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"1.464\"}","timestamp":"2024-12-25T03:31:38.355Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:32:29.421Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"11.805\"}","timestamp":"2024-12-25T03:32:31.587Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:32:55.224Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"6.798\"}","timestamp":"2024-12-25T03:33:48.588Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:34:59.134Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:35:04.999Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:35:09.068Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:35:17.351Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"2.769\"}","timestamp":"2024-12-25T03:35:18.618Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:35:36.196Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:35:48.883Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"400\",\"responseTime\":\"3.220\"}","timestamp":"2024-12-25T03:35:52.972Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:39:23.971Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"2.446\"}","timestamp":"2024-12-25T03:39:31.004Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:39:47.053Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"2.763\"}","timestamp":"2024-12-25T03:39:50.114Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"0.786\"}","timestamp":"2024-12-25T03:41:09.350Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:41:27.809Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:41:30.539Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:41:32.263Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:41:35.471Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:41:39.461Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:41:43.744Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:41:45.797Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:41:49.549Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:42:14.349Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:42:17.856Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:42:20.456Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:42:23.877Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:42:34.620Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:42:39.455Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:42:40.746Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:42:54.054Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:42:55.458Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:42:57.750Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:43:04.300Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"4.866\"}","timestamp":"2024-12-25T03:43:10.918Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:48:54.678Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:49:00.250Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:49:09.931Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:49:12.360Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:49:41.392Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:49:51.076Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:49:52.289Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:49:54.289Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"2.984\"}","timestamp":"2024-12-25T03:50:10.725Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:50:25.888Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:50:28.566Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"3.281\"}","timestamp":"2024-12-25T03:50:43.275Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:53:00.625Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"400\",\"responseTime\":\"4.991\"}","timestamp":"2024-12-25T03:53:17.634Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"518.588\"}","timestamp":"2024-12-25T03:55:48.959Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:56:18.028Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:56:20.512Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:56:21.543Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:56:25.865Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:56:27.628Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:56:30.223Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:56:31.902Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:56:37.812Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T03:56:40.189Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"149.672\"}","timestamp":"2024-12-25T03:56:47.909Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"368.816\"}","timestamp":"2024-12-25T03:58:39.546Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:10:45.562Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"2456.501\"}","timestamp":"2024-12-25T04:11:08.375Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"1547.842\"}","timestamp":"2024-12-25T04:14:55.544Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:15:19.651Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:17:20.924Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"150.807\"}","timestamp":"2024-12-25T04:17:29.095Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:18:30.379Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"1603.915\"}","timestamp":"2024-12-25T04:18:39.684Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:22:14.986Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"950.506\"}","timestamp":"2024-12-25T04:22:35.535Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:24:27.938Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:24:33.717Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:24:47.897Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:24:49.815Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:24:52.818Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:24:54.144Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:24:58.101Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:25:00.442Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:25:33.539Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:25:35.334Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:25:36.547Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:25:39.701Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:26:03.706Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:26:13.414Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:27:53.912Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"1475.444\"}","timestamp":"2024-12-25T04:28:22.460Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:28:48.618Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:29:29.354Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:29:30.465Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:29:37.905Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:29:40.381Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:31:18.033Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:31:22.870Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:31:45.580Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:33:03.832Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:33:28.186Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"1258.204\"}","timestamp":"2024-12-25T04:33:38.650Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:35:48.672Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:36:08.641Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:36:37.774Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:36:47.552Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:37:55.595Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:38:52.874Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:41:43.877Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:42:11.756Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:42:17.567Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:42:24.197Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:42:38.426Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:42:39.554Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:42:48.163Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:43:13.987Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:43:19.959Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:43:35.707Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:43:44.447Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:44:12.029Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:44:18.308Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:44:28.582Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:44:59.560Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:45:10.862Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"201\",\"responseTime\":\"4515.512\"}","timestamp":"2024-12-25T04:45:58.784Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/availability\",\"status\":\"200\",\"responseTime\":\"38.762\"}","timestamp":"2024-12-25T04:52:22.953Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/appointments/doctor/:676b84aec3d8cd2a0629c8d3?date=2024-12-25\",\"status\":\"400\",\"responseTime\":\"3.983\"}","timestamp":"2024-12-25T04:55:19.102Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:56:39.171Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:56:47.718Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/appointments/doctor/:676b84aec3d8cd2a0629c8d3?date=2024-12-25\",\"status\":\"400\",\"responseTime\":\"3.081\"}","timestamp":"2024-12-25T04:56:50.620Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:57:00.204Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:57:03.493Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:57:05.331Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/appointments/doctor/:676b84aec3d8cd2a0629c8d3?date=2024-12-25\",\"status\":\"500\",\"responseTime\":\"3.363\"}","timestamp":"2024-12-25T04:57:08.097Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T04:57:27.333Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/appointments/doctor/:676b84aec3d8cd2a0629c8d3?date=2024-12-25\",\"status\":\"500\",\"responseTime\":\"3.658\"}","timestamp":"2024-12-25T04:57:27.741Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:00:22.092Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/appointments/doctor/:676b84aec3d8cd2a0629c8d3?date=2024-12-25\",\"status\":\"400\",\"responseTime\":\"7.957\"}","timestamp":"2024-12-25T05:00:23.681Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:01:07.765Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:01:09.201Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:01:10.372Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:01:21.012Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/appointments/doctor/:676b84aec3d8cd2a0629c8d3?date=2024-12-25\",\"status\":\"200\",\"responseTime\":\"128.009\"}","timestamp":"2024-12-25T05:01:24.418Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/appointments/:676b8e0232de389e588910ea/reschedule\",\"status\":\"400\",\"responseTime\":\"1.806\"}","timestamp":"2024-12-25T05:08:54.940Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:10:10.260Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:10:13.178Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/appointments/:676b8e0232de389e588910ea/reschedule\",\"status\":\"400\",\"responseTime\":\"3.769\"}","timestamp":"2024-12-25T05:10:23.520Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:10:57.346Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/appointments/:676b8e0232de389e588910ea/reschedule\",\"status\":\"400\",\"responseTime\":\"4.770\"}","timestamp":"2024-12-25T05:11:08.385Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:11:25.379Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:11:31.290Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:11:37.052Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/appointments/:676b8e0232de389e588910ea/reschedule\",\"status\":\"200\",\"responseTime\":\"4254.434\"}","timestamp":"2024-12-25T05:11:43.195Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:16:00.959Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:16:03.160Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/api/appointments/:676b940a55ace0ca8b874871\",\"status\":\"200\",\"responseTime\":\"4832.957\"}","timestamp":"2024-12-25T05:16:33.612Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"176.228\"}","timestamp":"2024-12-25T05:18:31.770Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"201\",\"responseTime\":\"4470.139\"}","timestamp":"2024-12-25T05:19:06.576Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:20:10.004Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:20:12.194Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/appointments/:676b95c6caa46ad3533aa90b/no-show\",\"status\":\"400\",\"responseTime\":\"226.040\"}","timestamp":"2024-12-25T05:20:40.808Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:22:02.044Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/appointments/65b234c789cdef0123456790/no-show\",\"status\":\"400\",\"responseTime\":\"135.112\"}","timestamp":"2024-12-25T05:22:11.221Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:22:35.991Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/appointments/:65b234c789cdef0123456790/no-show\",\"status\":\"400\",\"responseTime\":\"55.473\"}","timestamp":"2024-12-25T05:22:37.955Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:23:29.279Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:23:31.004Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:23:38.769Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/appointments/:65b234c789cdef0123456790/no-show\",\"status\":\"400\",\"responseTime\":\"52.631\"}","timestamp":"2024-12-25T05:23:40.236Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/appointments/:676b95c6caa46ad3533aa90b/no-show\",\"status\":\"400\",\"responseTime\":\"206.522\"}","timestamp":"2024-12-25T05:23:51.820Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:24:40.348Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:24:43.912Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:24:51.753Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/appointments/:65b234c789cdef0123456790/no-show\",\"status\":\"400\",\"responseTime\":\"173.906\"}","timestamp":"2024-12-25T05:24:57.402Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:29:28.561Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/slots/create\",\"status\":\"201\",\"responseTime\":\"205.294\"}","timestamp":"2024-12-25T05:29:33.096Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/slots/create\",\"status\":\"500\",\"responseTime\":\"181.495\"}","timestamp":"2024-12-25T05:30:21.191Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/slots/create\",\"status\":\"201\",\"responseTime\":\"464.568\"}","timestamp":"2024-12-25T05:31:09.113Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:33:04.804Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:33:23.605Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:33:26.921Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:33:46.232Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:33:53.978Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:34:20.447Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/slots/available/:65a123b789cdef0123456789?startDate=2024-12-25&endDate=2024-12-31\",\"status\":\"200\",\"responseTime\":\"124.592\"}","timestamp":"2024-12-25T05:36:02.205Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/slots/book\",\"status\":\"200\",\"responseTime\":\"460.951\"}","timestamp":"2024-12-25T05:38:54.420Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/slots/book\",\"status\":\"500\",\"responseTime\":\"56.364\"}","timestamp":"2024-12-25T05:39:20.313Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/slots/book\",\"status\":\"200\",\"responseTime\":\"327.258\"}","timestamp":"2024-12-25T05:41:07.127Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:43:14.233Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:43:15.754Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:43:17.338Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:43:19.246Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/slots/release/:676b989c2af257f101a7e16c\",\"status\":\"404\",\"responseTime\":\"1.919\"}","timestamp":"2024-12-25T05:43:39.409Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/slots/release/:676b989c2af257f101a7e16c\",\"status\":\"200\",\"responseTime\":\"105.840\"}","timestamp":"2024-12-25T05:43:52.366Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:45:32.485Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:45:41.204Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/slots/next-available/:65a123b789cdef0123456789?numberOfSlots=5&afterDate=2024-12-25\",\"status\":\"200\",\"responseTime\":\"261.120\"}","timestamp":"2024-12-25T05:46:50.397Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/slots/schedule/:65a123b789cdef0123456789?startDate=2024-12-25&endDate=2024-12-31\",\"status\":\"500\",\"responseTime\":\"3.642\"}","timestamp":"2024-12-25T05:49:08.977Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:49:41.989Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:49:43.049Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/slots/schedule/:65a123b789cdef0123456789?startDate=2024-12-25&endDate=2024-12-31\",\"status\":\"200\",\"responseTime\":\"280.708\"}","timestamp":"2024-12-25T05:49:48.787Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/slots/check-availability\",\"status\":\"404\",\"responseTime\":\"0.881\"}","timestamp":"2024-12-25T05:51:58.758Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/slots/check-availability\",\"status\":\"200\",\"responseTime\":\"270.553\"}","timestamp":"2024-12-25T05:52:07.201Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/slots/bulk-create\",\"status\":\"201\",\"responseTime\":\"164.164\"}","timestamp":"2024-12-25T05:54:40.609Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/api/slots/expired\",\"status\":\"500\",\"responseTime\":\"1.082\"}","timestamp":"2024-12-25T05:56:43.546Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:57:16.860Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:57:19.235Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/api/slots/expired\",\"status\":\"400\",\"responseTime\":\"2.734\"}","timestamp":"2024-12-25T05:57:21.350Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:57:47.688Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:57:55.750Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:58:00.885Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-25T05:58:28.284Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/api/slots/expired\",\"status\":\"200\",\"responseTime\":\"89.454\"}","timestamp":"2024-12-25T05:58:32.137Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-26T06:12:29.741Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/slots/available/undefined?startDate=2024-12-26&endDate=2025-01-02\",\"status\":\"404\",\"responseTime\":\"7.964\"}","timestamp":"2024-12-26T06:37:35.764Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/slots/schedule/undefined?startDate=2024-12-26&endDate=2025-01-02\",\"status\":\"404\",\"responseTime\":\"14.611\"}","timestamp":"2024-12-26T06:37:35.769Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/slots/available/undefined?startDate=2024-12-26&endDate=2025-01-02\",\"status\":\"404\",\"responseTime\":\"0.896\"}","timestamp":"2024-12-26T06:37:36.444Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/slots/schedule/undefined?startDate=2024-12-26&endDate=2025-01-02\",\"status\":\"404\",\"responseTime\":\"0.261\"}","timestamp":"2024-12-26T06:37:36.446Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/slots/available/undefined?startDate=2024-12-26&endDate=2025-01-02\",\"status\":\"404\",\"responseTime\":\"0.882\"}","timestamp":"2024-12-26T06:37:38.577Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/slots/schedule/undefined?startDate=2024-12-26&endDate=2025-01-02\",\"status\":\"404\",\"responseTime\":\"0.863\"}","timestamp":"2024-12-26T06:37:38.579Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/slots/available/undefined?startDate=2024-12-26&endDate=2025-01-02\",\"status\":\"404\",\"responseTime\":\"0.783\"}","timestamp":"2024-12-26T06:37:38.583Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/slots/schedule/undefined?startDate=2024-12-26&endDate=2025-01-02\",\"status\":\"404\",\"responseTime\":\"0.446\"}","timestamp":"2024-12-26T06:37:38.586Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/slots/available/undefined?startDate=2024-12-26&endDate=2025-01-02\",\"status\":\"404\",\"responseTime\":\"1.486\"}","timestamp":"2024-12-26T06:37:56.668Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/slots/available/undefined?startDate=2024-12-26&endDate=2025-01-02\",\"status\":\"404\",\"responseTime\":\"6.695\"}","timestamp":"2024-12-26T06:37:56.673Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/slots/schedule/undefined?startDate=2024-12-26&endDate=2025-01-02\",\"status\":\"404\",\"responseTime\":\"1.077\"}","timestamp":"2024-12-26T06:37:56.675Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/slots/schedule/undefined?startDate=2024-12-26&endDate=2025-01-02\",\"status\":\"404\",\"responseTime\":\"2.092\"}","timestamp":"2024-12-26T06:37:56.682Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/appointments/doctor/null?date=2024-12-26\",\"status\":\"404\",\"responseTime\":\"3.234\"}","timestamp":"2024-12-26T06:38:18.106Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/appointments/doctor/null?date=2024-12-26\",\"status\":\"404\",\"responseTime\":\"0.215\"}","timestamp":"2024-12-26T06:38:18.113Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/appointments/doctor/null?date=2024-12-26\",\"status\":\"404\",\"responseTime\":\"0.519\"}","timestamp":"2024-12-26T06:38:23.889Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/appointments/doctor/null?date=2024-12-26\",\"status\":\"404\",\"responseTime\":\"0.541\"}","timestamp":"2024-12-26T06:38:23.896Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/appointments/doctor/null?date=2024-12-26\",\"status\":\"404\",\"responseTime\":\"0.826\"}","timestamp":"2024-12-26T06:38:30.693Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/appointments/doctor/null?date=2024-12-26\",\"status\":\"404\",\"responseTime\":\"0.934\"}","timestamp":"2024-12-26T06:38:30.717Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/appointments/doctor/null?date=2024-12-26\",\"status\":\"404\",\"responseTime\":\"1.871\"}","timestamp":"2024-12-26T06:38:35.863Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/appointments/doctor/null?date=2024-12-26\",\"status\":\"404\",\"responseTime\":\"6.192\"}","timestamp":"2024-12-26T06:38:35.868Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/slots/available/undefined?startDate=2024-12-26&endDate=2025-01-02\",\"status\":\"404\",\"responseTime\":\"0.430\"}","timestamp":"2024-12-26T06:38:46.123Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/slots/schedule/undefined?startDate=2024-12-26&endDate=2025-01-02\",\"status\":\"404\",\"responseTime\":\"0.776\"}","timestamp":"2024-12-26T06:38:46.125Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/slots/schedule/undefined?startDate=2024-12-26&endDate=2025-01-02\",\"status\":\"404\",\"responseTime\":\"0.211\"}","timestamp":"2024-12-26T06:38:46.129Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/slots/available/undefined?startDate=2024-12-26&endDate=2025-01-02\",\"status\":\"404\",\"responseTime\":\"0.259\"}","timestamp":"2024-12-26T06:38:46.130Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/slots/next-available/undefined?numberOfSlots=5&afterDate=2024-12-26\",\"status\":\"404\",\"responseTime\":\"0.917\"}","timestamp":"2024-12-26T06:39:03.330Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/slots/available/undefined?startDate=2024-12-26&endDate=2025-01-02\",\"status\":\"404\",\"responseTime\":\"0.932\"}","timestamp":"2024-12-26T06:39:05.345Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/slots/next-available/undefined?numberOfSlots=5&afterDate=2024-12-26\",\"status\":\"404\",\"responseTime\":\"0.667\"}","timestamp":"2024-12-26T06:39:08.417Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/slots/available/undefined?startDate=2024-12-26&endDate=2025-01-02\",\"status\":\"404\",\"responseTime\":\"0.604\"}","timestamp":"2024-12-26T06:39:10.361Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/slots/next-available/undefined?numberOfSlots=5&afterDate=2024-12-26\",\"status\":\"404\",\"responseTime\":\"0.925\"}","timestamp":"2024-12-26T06:39:11.880Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-27T04:01:13.617Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/appointments/doctor/null?date=2024-12-27\",\"status\":\"404\",\"responseTime\":\"1.981\"}","timestamp":"2024-12-27T04:03:41.178Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/appointments/doctor/null?date=2024-12-27\",\"status\":\"404\",\"responseTime\":\"4.234\"}","timestamp":"2024-12-27T04:03:41.180Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/appointments/doctor/null?date=2024-12-27\",\"status\":\"404\",\"responseTime\":\"1.246\"}","timestamp":"2024-12-27T04:04:37.433Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/appointments/doctor/null?date=2024-12-27\",\"status\":\"404\",\"responseTime\":\"0.294\"}","timestamp":"2024-12-27T04:04:37.434Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-27T04:05:03.689Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/appointments/doctor/null?date=2024-12-27\",\"status\":\"404\",\"responseTime\":\"2.253\"}","timestamp":"2024-12-27T04:06:03.651Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/appointments/doctor/null?date=2024-12-27\",\"status\":\"404\",\"responseTime\":\"0.536\"}","timestamp":"2024-12-27T04:06:03.652Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/appointments/doctor/null?date=2024-12-27\",\"status\":\"404\",\"responseTime\":\"0.585\"}","timestamp":"2024-12-27T04:06:04.515Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/appointments/doctor/null?date=2024-12-27\",\"status\":\"404\",\"responseTime\":\"0.248\"}","timestamp":"2024-12-27T04:06:04.517Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/slots/available/undefined?startDate=2024-12-27&endDate=2025-01-03\",\"status\":\"404\",\"responseTime\":\"0.273\"}","timestamp":"2024-12-27T04:06:06.483Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/slots/schedule/undefined?startDate=2024-12-27&endDate=2025-01-03\",\"status\":\"404\",\"responseTime\":\"0.737\"}","timestamp":"2024-12-27T04:06:06.484Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/slots/available/undefined?startDate=2024-12-27&endDate=2025-01-03\",\"status\":\"404\",\"responseTime\":\"0.368\"}","timestamp":"2024-12-27T04:06:06.487Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/slots/schedule/undefined?startDate=2024-12-27&endDate=2025-01-03\",\"status\":\"404\",\"responseTime\":\"1.054\"}","timestamp":"2024-12-27T04:06:06.488Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/appointments/doctor/null?date=2024-12-27\",\"status\":\"404\",\"responseTime\":\"2.445\"}","timestamp":"2024-12-27T04:06:08.426Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/appointments/doctor/null?date=2024-12-27\",\"status\":\"404\",\"responseTime\":\"6.527\"}","timestamp":"2024-12-27T04:06:08.430Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/appointments/doctor/null?date=2024-12-27\",\"status\":\"404\",\"responseTime\":\"0.535\"}","timestamp":"2024-12-27T04:06:09.134Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/appointments/doctor/null?date=2024-12-27\",\"status\":\"404\",\"responseTime\":\"0.351\"}","timestamp":"2024-12-27T04:06:09.138Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/appointments/doctor/null?date=2024-12-27\",\"status\":\"404\",\"responseTime\":\"1.219\"}","timestamp":"2024-12-27T04:06:10.066Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/appointments/doctor/null?date=2024-12-27\",\"status\":\"404\",\"responseTime\":\"2.186\"}","timestamp":"2024-12-27T04:06:10.068Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/appointments/doctor/null?date=2024-12-27\",\"status\":\"404\",\"responseTime\":\"0.777\"}","timestamp":"2024-12-27T04:30:05.654Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/appointments/doctor/null?date=2024-12-27\",\"status\":\"404\",\"responseTime\":\"1.181\"}","timestamp":"2024-12-27T04:30:05.662Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-27T04:33:27.109Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on port 4000","timestamp":"2024-12-28T04:42:53.199Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"682.182\"}","timestamp":"2024-12-28T04:43:10.496Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/appointments/create\",\"status\":\"500\",\"responseTime\":\"559.441\"}","timestamp":"2024-12-28T04:44:40.431Z"}

@@ -1,0 +1,67 @@
+Zaheer Khan
+Nallasopara,Mumbai
+
+Ó +91-7666141951 R zaheerkhan872004@gmail.com ° Linkedin  Github LeetCode
+
+EDUCATION
+Vidyavardhini’s College of Engineering And Technology 07 2022 – 07 2026
+Computer Science and Technology with Data Science - CGPA - 8 Vasai, Mumbai
+St. Luke’s Junior College of Commerce and Science 03 2021 – 03 2022
+Higher Secondary Certificate - Science - Percentage - 78% Nallasopara, Mumbai
+COURSEWORK / SKILLS
+• Data Structures &
+Algorithms (up to
+Trees)
+• Web Frontend
+
+Development
+• Backend API
+Development
+• Operating Systems
+
+• Networking
+• Database Management
+Systems (DBMS)
+• Object-Oriented
+
+Programming (OOP)
+with Java
+• DevOps
+
+PROJECTS
+VidTweet W | Node.js, Express, MongoDB, Mongoose, Cloudinary, Resend Ongoing
+• Developed a video-tweeting platform with Node.js, MongoDB, and Mongoose. Integrated Cloudinary for
+video uploads and Resend for email verification. Used MongoDB aggregation for efficient video search
+and dynamic content.
+Food Store W | JavaScript, React.js, Swiggy API Ongoing
+• Built a food ordering platform using React.js and the Swiggy API, offering real-time restaurant listings and
+dynamic menus. Enhanced performance with React hooks and context API.
+MessageFeedback W | Next.js, TypeScript, Mongoose, NextAuth, Shadcn, Resend 08 2024
+• Developed a full-stack feedback system with Next.js and NextAuth for custom authentication, featuring
+email verification via Resend. The frontend was designed using Shadcn components and integrated with
+TypeScript.
+INTERNSHIP
+Quml.ai W 08 2024 – Ongoing
+Full Stack Developer Borivali, Mumbai
+• Led a sponsored project involving both frontend and backend development using Next.js
+YPP Technologies W 12 2023 – 1 2024
+Frontend Developer Virar, Mumbai
+• Worked on frontend development, contributing to user interface design and implementation.
+TECHNICAL SKILLS
+Languages: JavaScript, Java, SQL, NoSQL
+Developer Tools: VS Code, Intellij Idea Ultimate, Android Studio,
+Technologies/Frameworks: Linux, ReactJS, NextJS, NodeJS, ExpressJS, Git, GitHub, Docker, Shell
+Scripting, Jenkins, AWS, Kubernetes(Beginner)
+INTERESTS & LEARNING
+Personal Projects Ongoing
+Self-Learning
+• Developing coding projects in JavaScript, React, and Node.js, with a focus on web development.
+• Enhancing Data Structures and Algorithms skills using platforms like LeetCode.
+DevOps & Cloud Technologies Ongoing
+Exploring Infrastructure Automation
+• Learning DevOps and Cloud Computing with tools like Docker, Kubernetes, AWS, and CI/CD
+pipelines.
+• Engaging in online courses and tech forums to stay updated on cloud infrastructure trends and practices.
+Open Source Contributions Ongoing
+Contributor
+• Contributing to open-source projects on GitHub, collaborating with developers worldwide.
